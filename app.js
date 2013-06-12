@@ -45,4 +45,4 @@ app.get('/',function(req,res) {
 
 
 console.log("Starting app server")
-app.listen(3000);
+app.listen(app.get('port'));
