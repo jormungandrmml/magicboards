@@ -44,4 +44,5 @@ app.get('/',function(req,res) {
 })
 
 
+console.log("Starting app server")
 app.listen(3000);
