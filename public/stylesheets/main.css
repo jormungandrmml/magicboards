@@ -1,0 +1,44 @@
+
+/* Mana Symbols */
+.white-mana {
+	display:inline-block;
+	background-image:url('/images/mana_symbols.jpg');
+	width: 25px;
+	height: 30px;
+	background-size: 130px;
+	background-position-x: -5px;
+}
+.red-mana {
+	display:inline-block;
+	background-image:url('/images/mana_symbols.jpg');
+	width: 25px;
+	height: 30px;
+	background-size: 130px;
+	background-position-x: -76px;
+}
+.blue-mana {
+	display:inline-block;
+	background-image:url('/images/mana_symbols.jpg');
+	width: 25px;
+	height: 30px;
+	background-size: 130px;
+	background-position-x: -29px;
+}
+.green-mana {
+	display:inline-block;
+	background-image:url('/images/mana_symbols.jpg');
+	width: 25px;
+	height: 30px;
+	background-size: 130px;
+	background-position-x: -100px;
+}
+.black-mana {
+	display:inline-block;
+	background-image:url('/images/mana_symbols.jpg');
+	width: 25px;
+	height: 30px;
+	background-size: 130px;
+	background-position-x: -52px;
+}
+
+.rares span { vertical-align:middle; }
