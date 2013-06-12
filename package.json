@@ -1,5 +1,5 @@
 {
-  "name": "application-name",
+  "name": "Magic-Board",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "3.2.6",
-    "jade": "*"
+		"request" : "2.x.x"
   }
 }
